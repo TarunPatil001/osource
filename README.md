@@ -10,7 +10,7 @@ This cheat sheet provides all essential and professional-level Markdown notation
 - [Headings](#headings)
 - [Text Formatting](#text-formatting)
 - [Lists](#lists)
-- [Checkboxes](#checkboxes)
+- [✅ Checkboxes](#checkboxes)
 - [Links](#links)
 - [Images](#images)
 - [Blockquotes](#blockquotes)
