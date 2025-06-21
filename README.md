@@ -24,7 +24,7 @@ This cheat sheet provides all essential and professional-level Markdown notation
 
 ---
 
-## 🔠 Headings
+## Headings
 
 ```md
 # H1
@@ -37,7 +37,7 @@ This cheat sheet provides all essential and professional-level Markdown notation
 
 ---
 
-## ✍️ Text Formatting
+## Text Formatting
 
 ```md
 **Bold**           →   **Bold**
@@ -48,7 +48,7 @@ This cheat sheet provides all essential and professional-level Markdown notation
 
 ---
 
-## 📋 Lists
+## Lists
 
 ### • Unordered List
 
